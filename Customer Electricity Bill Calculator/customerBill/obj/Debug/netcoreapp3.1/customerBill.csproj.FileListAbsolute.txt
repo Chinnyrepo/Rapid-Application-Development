@@ -1,0 +1,75 @@
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.exe
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.deps.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.dev.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.FrmElectricity.resources
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.GenerateResource.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfoInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfo.cs
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.genruntimeconfig.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.exe
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.deps.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.dev.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\bin\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.FrmElectricity.resources
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.GenerateResource.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfoInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfo.cs
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBill\customerBill\obj\Debug\netcoreapp3.1\customerBill.genruntimeconfig.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\bin\Debug\netcoreapp3.1\customerBill.exe
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\bin\Debug\netcoreapp3.1\customerBill.deps.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.dev.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\bin\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\bin\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.FrmElectricity.resources
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.GenerateResource.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfoInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfo.cs
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\customerElectricityBilltrial\customerBill\obj\Debug\netcoreapp3.1\customerBill.genruntimeconfig.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\bin\Debug\netcoreapp3.1\customerBill.exe
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\bin\Debug\netcoreapp3.1\customerBill.deps.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.dev.json
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\bin\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\bin\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.FrmElectricity.resources
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.GenerateResource.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfoInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfo.cs
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab1\customerBill\obj\Debug\netcoreapp3.1\customerBill.genruntimeconfig.cache
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\bin\Debug\netcoreapp3.1\customerBill.exe
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\bin\Debug\netcoreapp3.1\customerBill.deps.json
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.json
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\bin\Debug\netcoreapp3.1\customerBill.runtimeconfig.dev.json
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\bin\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\bin\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.FrmElectricity.resources
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.GenerateResource.cache
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfoInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.AssemblyInfo.cs
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.dll
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.pdb
+C:\Users\Chinenye Okpalanze\Desktop\repo\Rapid-Application-Development\Customer Electricity Bill Calculator\customerBill\obj\Debug\netcoreapp3.1\customerBill.genruntimeconfig.cache
