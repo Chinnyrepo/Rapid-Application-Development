@@ -1,0 +1,5 @@
+Jack , 9.12,234AB,        R
+Jill, 60.00,567AB,        C
+Beanstock, 76.00,890AB,        I
+Chinenye, 11.20,23456,   R
+chinene, 76.00,23456,  I

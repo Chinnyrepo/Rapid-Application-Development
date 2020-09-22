@@ -1,0 +1,36 @@
+C:\Users\jwarpech\source\repos\ProductInventory\ProductData\bin\Debug\ProductData.dll
+C:\Users\jwarpech\source\repos\ProductInventory\ProductData\bin\Debug\ProductData.pdb
+C:\Users\jwarpech\source\repos\ProductInventory\ProductData\obj\Debug\ProductData.csprojResolveAssemblyReference.cache
+C:\Users\jwarpech\source\repos\ProductInventory\ProductData\obj\Debug\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\jwarpech\source\repos\ProductInventory\ProductData\obj\Debug\ProductData.dll
+C:\Users\jwarpech\source\repos\ProductInventory\ProductData\obj\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Downloads\ProductInventoryWithClassLibrary\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Downloads\ProductInventoryWithClassLibrary\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Downloads\ProductInventoryWithClassLibrary\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Downloads\ProductInventoryWithClassLibrary\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Downloads\ProductInventoryWithClassLibrary\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Downloads\ProductInventoryWithClassLibrary\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab2\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab2\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab2\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab2\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab2\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Lab2\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial3\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial3\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial3\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial3\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial3\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_Labtrial3\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_UnitTest\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_UnitTest\ProductInventoryWithClassLibrary\ProductData\bin\Debug\ProductData.pdb
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_UnitTest\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csprojAssemblyReference.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_UnitTest\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_UnitTest\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.dll
+C:\Users\Chinenye Okpalanze\Desktop\Assignments\ChinenyeOkpalanze_CPRG200_UnitTest\ProductInventoryWithClassLibrary\ProductData\obj\Debug\ProductData.pdb
